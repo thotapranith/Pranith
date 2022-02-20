@@ -1,0 +1,22 @@
+---
+- mystudents:
+    - name: maha
+      phno: 76878734
+      address: 
+        - doorno: 943797
+        - streetno: 8934898
+        - pincode: 84980
+
+    - name: raju
+      phno: 998358
+      address:
+        - doorno: 50940
+        - streetno: 4880
+        - pincode: 8980468
+        
+    - name: shiva
+      phno: 7658858734
+      address:
+        - doorno: 894869
+        - streetno: 84680
+        - pincode: 860480
